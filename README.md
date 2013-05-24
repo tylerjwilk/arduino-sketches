@@ -1,4 +1,4 @@
 arduino-sketches
 ================
 
-Random Arduino programs and sketches
+Random Arduino playground of program "sketches" I have built as I am learning more about it.
